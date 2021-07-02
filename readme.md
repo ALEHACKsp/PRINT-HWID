@@ -14,3 +14,6 @@ __)_)_/&)_)&/_%&)(_%/%_¤_/&#¤/_/#¤_/¤#_¤&&%_"#¤&%&#"_&/(_"¤#/_"#_/"#_#/_"
 
 # Credits
 Mailar#0001
+
+# Script
+![image](https://user-images.githubusercontent.com/83369389/124250958-0c85b580-db2e-11eb-94ef-2d326ad84393.png)
